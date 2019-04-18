@@ -1,2 +1,2 @@
-From docker.elastic.co/elasticsearch/elasticsearch:7.0.0
+From elasticsearch:5.6.8
 MAINTAINER zhoulin <750955551@qq.com>

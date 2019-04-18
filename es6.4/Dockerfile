@@ -1,2 +1,2 @@
-From gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
+From docker.elastic.co/elasticsearch/elasticsearch:7.0.0
 MAINTAINER zhoulin <750955551@qq.com>

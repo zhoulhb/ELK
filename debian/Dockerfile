@@ -1,1 +1,1 @@
-From debian:latest
+From ubuntu:16.04

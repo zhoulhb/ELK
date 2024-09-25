@@ -2,4 +2,8 @@
 #From nvidia/dcgm-exporter:2.0.13-2.3.1-ubuntu18.04
 #From consul:1.15.4
 #From bytebase/bytebase:2.22.3
-From redislabs/redisinsight
+#From redislabs/redisinsight
+From redis:5
+#From mysql:5.7
+#From hanchuanchuan/goinception
+#From hhyo/archery:v1.11.3

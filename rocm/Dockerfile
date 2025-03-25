@@ -1,1 +1,1 @@
-FROM rocm/dev-ubuntu-20.04:latest
+FROM nvcr.io/nvidia/cuda-dl-base:25.01-cuda12.8-devel-ubuntu24.04
